@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+layout: page
+title: "page-1"
+permalink: /page1
+
 <html>
 <head>
 <meta charset="utf-8">
