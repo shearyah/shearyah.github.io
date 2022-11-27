@@ -1,6 +1,3 @@
-layout: page
-title: "page-1"
-permalink: /page1
 
 <html>
 <head>
