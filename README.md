@@ -3,8 +3,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <p>我的GitHub主页地址:<a href="https://github.com/Lybneah/">https://github.com/Lybneah</a><br/>
-      此页面地址:<a href="https://Lybneah.github.io/">https://Lybneah.github.io</a>
+    <p>我的GitHub主页地址:<a href="https://github.com/Lybneah/">https://github.com/Lybneah</a><br/>此页面地址:<a href="https://Lybneah.github.io/">https://Lybneah.github.io</a>
     </p>
     <h1>目录</h1>
     <p>
