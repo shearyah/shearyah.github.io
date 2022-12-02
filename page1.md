@@ -1,6 +1,6 @@
-layout:page
-title:"page1"
-permalink:/page1
+layout: page
+title: "page1"
+permalink: /page1/
 <html>
 <head>
 <meta charset="utf-8">
