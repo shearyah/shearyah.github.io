@@ -1,6 +1,7 @@
 layout: page
 title: "page1"
 permalink: /page1/
+
 <html>
 <head>
 <meta charset="utf-8">
@@ -9,6 +10,9 @@ permalink: /page1/
     <h1>a head</h1>
     <p>a paragraph</br>
     (x<sup>2</sup> + y<sup>2</sup> - 1)<sup>3</sup> - x<sup>2</sup>y<sup>3</sup> = 0</br>
+    <p>
+$\int_0^1x^2dx$
+</p>
     <math>
   <mi> f </mi>
   <mrow>
