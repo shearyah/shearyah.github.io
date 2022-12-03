@@ -12,7 +12,7 @@
       <a href="#A2">目录二</a></p>
     <h2 id=A1>目录一</h2>
       <p>
-        <a href="https://Lybneah.github.io/page1">链接一</a>
+        <a href="https://shearyah.github.io/page1">链接一</a>
       </p>
     <h2 id=A2>目录二</h2>
   </body>
